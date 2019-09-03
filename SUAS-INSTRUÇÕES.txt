@@ -1,0 +1,22 @@
+Boa noite! =)
+
+A aplicação roda em Python 3.7 e foi construída com um virtualenv.
+Caso seja necessário, segue abaixo alguns comandos úteis:
+
+- Para criação de um virtualenv (com Python 3.7 e o pip instalados):
+python3 -m venv <nome_do_diretorio_do_virtual_env>, como por exemplo:
+python3 -m venv .venv
+
+- Após a criação, é necessário ativá-lo, com o comando:
+source <diretorio_criado>/bin/activate, como por exemplo:
+source .venv/bin/activate
+
+- Com o virtualenv ativo (o nome do vitualenv vai aparecer no início da linha de comando):
+- pip install -r requirements.txt
+
+- Após a instalação das dependências, a aplicação está pronta para rodar com o comando:
+python main.py
+
+Não consegui reservar um tempo adequado para construção deste, mas segue o que foi possível em uma noite...rsss
+
+Muito obrigado pela atenção.
